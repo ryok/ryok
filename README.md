@@ -2,4 +2,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryok&theme=dracula)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryok&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryok&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
